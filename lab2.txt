@@ -1,0 +1,34 @@
+Book ID: 101
+Title: Java Programming
+Author: James
+Price: 500.0
+
+Book ID: 102
+Title: Python Programming
+Author: Guido
+Price: 700.0
+
+Book ID: 103
+Title: Data Structures
+Author: Mark
+Price: 600.0
+
+Book found by ID:
+Book ID: 101
+Title: Java Programming
+Author: James
+Price: 500.0
+
+Book found by Title:
+Book ID: 102
+Title: Python Programming
+Author: Guido
+Price: 700.0
+
+Costlier Book:
+Book ID: 102
+Title: Python Programming
+Author: Guido
+Price: 700.0
+
+Total number of books created: 3
