@@ -1,0 +1,9 @@
+enter number of students:2
+enter a name:rahul
+enter a usn:1wn212
+enter a name:mitun
+enter a usn:1bf923
+name:rahul
+USN:1wn212
+name:mitun
+USN:1bf923
